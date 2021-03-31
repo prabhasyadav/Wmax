@@ -1,4 +1,3 @@
-numpy==1.16.*
-matplotlib==3.*
-scipy==1.2.*
-pandas==0.24.*
+numpy
+matplotlib
+scipy
