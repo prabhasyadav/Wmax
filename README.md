@@ -3,7 +3,7 @@
 
 Pls click on the (binder) logo below to get your ipynb file. This requires internet connection.
 
-[![DOI](https://zenodo.org/badge/171188558.svg)](https://zenodo.org/badge/latestdoi/171188558)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5516353.svg)](https://doi.org/10.5281/zenodo.5516353)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/prabhasyadav/Wmax/master)
 
