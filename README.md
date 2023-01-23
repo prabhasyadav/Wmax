@@ -14,4 +14,4 @@ Every content here is [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/le
 
 ## Publication
 
-Yadav, P. K., I. Sharif, R. Liedl, B. R. Chahar, and T. Grischek. 2023. Direct computation of critical plume quantities required for initial assessment of contaminated sites. Computers & Geosciences, January, 105299, https://doi.org/10.1016/j.cageo.2023.105299.
+Yadav, P. K., I. Sharif, R. Liedl, B. R. Chahar, and T. Grischek. 2023. Direct computation of critical plume quantities required for initial assessment of contaminated sites. Computers & Geosciences, January, 105299, [https://doi.org/10.1016/j.cageo.2023.105299](https://doi.org/10.1016/j.cageo.2023.105299).
